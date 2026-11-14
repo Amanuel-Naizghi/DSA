@@ -1,7 +1,7 @@
-package PatternSlidingWindow;
+package PatternSlidingWindow.AverageOfSubarray;
 
 import java.util.Arrays;
-// The time complexity for this algorithm is n^2 which is not effective,
+// The time complexity for this algorithm is n*k which is not effective,
 // its fixed using sliding window algo
 public class AverageOfSubarrayOfSizeK {
     public static double[] findAverage(int k, int[] arr){

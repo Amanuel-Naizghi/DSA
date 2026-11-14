@@ -1,4 +1,4 @@
-package PatternSlidingWindow;
+package PatternSlidingWindow.AverageOfSubarray;
 
 import java.util.Arrays;
 //The time complexity of sliding window algo is n unlike the normal one which is n^2
